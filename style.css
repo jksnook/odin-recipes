@@ -10,3 +10,10 @@
 .steps {
   background-color: #7ad2dd;
 }
+
+.recipe-link {
+  text-align: center;
+  display: block;
+  margin: 10px auto;
+  background-color: #7add8f;
+}
